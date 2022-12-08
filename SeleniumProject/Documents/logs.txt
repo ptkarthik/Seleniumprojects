@@ -1,0 +1,5 @@
+2022-11-22 15:37:14 INFO  propertyconfiguratorExample:13 - info
+  2022-11-22 15:37:14 WARN  propertyconfiguratorExample:14 - warn
+  2022-11-22 15:37:14 ERROR propertyconfiguratorExample:15 - error
+  2022-11-22 15:37:14 FATAL propertyconfiguratorExample:16 - fartal
+  
